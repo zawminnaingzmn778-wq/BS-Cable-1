@@ -1,0 +1,6 @@
+{
+  "name": "BS 7671 Sizer",
+  "description": "Professional LV AC and DC cable sizing, multi-segment route evaluation, verification, and traceable engineering report generation aligned with BS 7671 workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
